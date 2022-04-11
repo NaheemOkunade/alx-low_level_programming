@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
- * Task 5
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  *
  * I am to write a code that prints out:
  * "with proper grammar, but the outcome is a piece of art,"
