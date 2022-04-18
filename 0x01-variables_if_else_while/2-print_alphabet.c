@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
+ * main -Entry point
  * 
- * main - Entry point
- * 
- * Must print alphabet in lower case
+ * alphabet in lowercase
  */
 int main(void)
 {
@@ -11,9 +10,8 @@ int main(void)
 
 	while (alphabet <= 'z')
 	{
-		putchar("%c", alphabet);
+		putchar(alphabet);
 		alphabet++;
 	}
-
 	return (0);
 }
