@@ -4,9 +4,9 @@
  *
  * Return: Always 0 (success)
  */
-int main (void)
+int main(void)
 {
-	char singles;
+	int singles;
 	for (singles = 0; singles <= 9; singles++)
 	{
 		putchar(singles);
