@@ -7,7 +7,7 @@
 int main (void)
 {
 	char singles;
-	for (singles = 0; single <= 9; singles++)
+	for (singles = 0; singles <= 9; singles++)
 	{
 		putchar(singles);
 	}
