@@ -10,7 +10,7 @@ int main(void)
 
 	while (single <= 9)
 	{
-		printf("%i", single);
+		putchar(single);
 		single++;
 	}
 
