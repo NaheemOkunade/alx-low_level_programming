@@ -6,12 +6,12 @@
  */
 int main(void)
 {
-	int singles = 0;
+	int single = 0;
 
-	while (singles <= 9)
+	while (single <= 9)
 	{
-		singles++;
-		putchar(singles);
+		single++;
+		putchar(single);
 	}
 
 	putchar('\n');
