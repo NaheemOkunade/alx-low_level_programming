@@ -7,6 +7,7 @@
 int main(void)
 {
 	int singles;
+
 	for (singles = 0; singles <= 9; singles++)
 	{
 		putchar(singles);
