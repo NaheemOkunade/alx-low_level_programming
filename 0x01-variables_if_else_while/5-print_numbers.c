@@ -10,7 +10,7 @@ int main(void)
 
 	for (singles = 0; singles <= 9; singles++)
 	{
-		putchar(singles);
+		printf(singles);
 	}
 	putchar('\n');
 	return (0);
