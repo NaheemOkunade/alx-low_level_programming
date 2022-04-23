@@ -6,11 +6,11 @@
  */
 int main(void)
 {
-	int singles;
+	char singles;
 
-	for (singles = 0; singles <= 9; singles++)
+	for (singles = '0'; singles <= '9'; singles++)
 	{
-		printf(singles);
+		putchar(singles);
 	}
 	putchar('\n');
 	return (0);
